@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MastGlobal</string>
+    <string name="txt_name">Name: %1$s</string>
+    <string name="txt_location">Location: %1$s</string>
+    <string name="txt_email">Email: %1$s</string>
+    <string name="txt_get_user_repos">Get User Repo</string>
+    <string name="txt_open_issues">Number of Open Issues: %1$d</string>
+    <string name="txt_total_forks">Total Number of Forks: %1$d</string>
+
+</resources>
